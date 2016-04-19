@@ -8,8 +8,8 @@ See /Scissors_Paper_Rock/Screenshots for screen shots of the game.
 
 Some tkinter tutorials:
 
-http://www.tkdocs.com/tutorial/index.html
+- http://www.tkdocs.com/tutorial/index.html
 
-http://www.python-course.eu/python_tkinter.php
+- http://www.python-course.eu/python_tkinter.php
 
 Disclaimer: Images drawn in paint.
