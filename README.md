@@ -20,10 +20,6 @@ Built using Python 3 & tkinter (GUI package included in the standard library).
 
 ---
 
-<img src="Scissors_Paper_Rock/Screenshots/2.png" width="800" />
-
----
-
 <img src="Scissors_Paper_Rock/Screenshots/3.png" width="800" />
 
 ---
