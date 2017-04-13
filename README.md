@@ -10,23 +10,23 @@ Built using Python 3 & tkinter (GUI package included in the standard library).
 
 ## Screens
 
----
+
 
 <img src="Scissors_Paper_Rock/Screenshots/1.png" width="800" />
 
----
+
 
 <img src="Scissors_Paper_Rock/Screenshots/2.png" width="800" />
 
----
+
 
 <img src="Scissors_Paper_Rock/Screenshots/3.png" width="800" />
 
----
+
 
 <img src="Scissors_Paper_Rock/Screenshots/4.png" width="800" />
 
----
+
 
 <img src="Scissors_Paper_Rock/Screenshots/5.png" width="800" />
 
