@@ -177,14 +177,14 @@ def main(player_move, playerName):
 
 
     winP1Label.config(text=str(playerName)+" chose " + str(myDictionary.get(player_move)), fg="black")
-    winP2Label.config(text="the_Computer chose " + str(myDictionary.get(computer_move)), fg ="black")
+    winP2Label.config(text="randomizer chose " + str(myDictionary.get(computer_move)), fg ="black")
 
     if result == "Draw":
         winText = result
     elif result == 1:
         winText = str(playerName) + " won !"
     else:
-        winText = " the_Computer won ! "
+        winText = " randomizer won ! "
 
     winnerLabel.config(text=winText, fg="red")
 
@@ -220,8 +220,8 @@ compMotion_c = tkinter.PhotoImage(file="Image_library/comp_hand1.2.gif")
 
 
 # player name label
-introLabel  = tkinter.Label(window, text="Greetings human, you have challenged a computer to a game of: \n"
-                                         "Scissors,Paper, Rock\n",font=('Helvetica', 22))
+introLabel  = tkinter.Label(window, text="Lets play: \n"
+                                         "Scissors, Paper, Rock\n",font=('Helvetica', 22))
 #playerLabel.pack(padx=0, pady=0, side=tkinter.LEFT )
 introLabel.pack()
 
@@ -238,7 +238,7 @@ playerNameInput = tkinter.Entry(window)
 playerNameInput.pack()
 
 playerNameInput.delete(0, tkinter.END)
-playerNameInput.insert(0, "new001")
+playerNameInput.insert(0, "bob")
 # playerName.get() to get name input
 
 # select label
