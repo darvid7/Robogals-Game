@@ -12,23 +12,7 @@ Built using Python 3 & tkinter (GUI package included in the standard library).
 
 
 
-<img src="Scissors_Paper_Rock/Screenshots/1.png" width="800" />
-
-
-
-<img src="Scissors_Paper_Rock/Screenshots/2.png" width="800" />
-
-
-
-<img src="Scissors_Paper_Rock/Screenshots/3.png" width="800" />
-
-
-
-<img src="Scissors_Paper_Rock/Screenshots/4.png" width="800" />
-
-
-
-<img src="Scissors_Paper_Rock/Screenshots/5.png" width="800" />
+![Alt Text](https://github.com/darvid7scissors_paper_rock/raw/master/Screenshots/gameplay.gif)
 
 
 Some tkinter tutorials:
