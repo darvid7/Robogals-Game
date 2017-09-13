@@ -12,7 +12,7 @@ Built using Python 3 & tkinter (GUI package included in the standard library).
 
 
 
-![Alt Text](https://github.com/darvid7scissors_paper_rock/raw/master/Screenshots/gameplay.gif)
+![Alt Text](https://github.com/darvid7/scissors-paper-rock/blob/master/Scissors_Paper_Rock/Screenshots/gameplay.gif)
 
 
 Some tkinter tutorials:
